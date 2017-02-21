@@ -1,0 +1,17 @@
+title: 'cc "-Dx=main(){}"'
+email: nalla@blanquett.net
+description: As long as someone gets the title.
+baseurl: ""
+url: "http://www.blanquett.net"
+twitter_username: evilpurple
+github_username: nalla
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+include:
+  - .htaccess
